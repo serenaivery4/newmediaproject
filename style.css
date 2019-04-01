@@ -1,0 +1,61 @@
+.navbar-inverse {
+    background-color: #767A7F;
+    color:white;
+}
+ul.nav li{
+    font-family: "roboto";
+    padding: 0px;
+    margin: 0px;
+    text-align: center;
+    display:inline-block;
+    vertical-align:top;
+}
+a.navbar-brand{
+  background-color: pink!important,
+  border-color:red!important;
+}
+.opacity-nav {
+  opacity: 0.8;
+  z-index: 2;
+}
+ p.home{
+  text-align: center;
+}
+.home{
+  background-image: url("img/memphis.jpeg");
+  background-color: #cccccc;
+  height: 100%;
+  width: 100%;
+  display: block;
+  padding: 35px;
+  padding-bottom: 50px;
+  padding-top:50px;
+  color:white;
+} 
+.facts{
+  margin-right: 50px;
+}
+.img{
+  height: 50%;
+  width: 50%;
+}
+.img2{
+  margin-left: 50%;
+  padding: 0;
+}
+.ads{
+  border: 7px double #767A7F;
+  height: 95%;
+  width:95%;
+}
+.action{
+  background-color: #82FAFF;
+  color: #767A7F;
+}
+h4{
+  color:#63B94E;
+}
+.ads1{
+  background-color: #2462AD;
+  color: white;
+}
