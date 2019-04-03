@@ -52,10 +52,30 @@ a.navbar-brand{
   background-color: #82FAFF;
   color: #767A7F;
 }
-h4{
-  color:#63B94E;
-}
 .ads1{
   background-color: #2462AD;
   color: white;
+  padding: 35px;
+  margin: 0px;
+}
+.map{
+  font-family: 'Roboto light', sans-serif;
+}
+.container1{
+  max-width: 100%;
+  margin: 0 auto;
+}
+h4{
+  color:#63B94E;
+}
+
+p{
+  font-family: 'Roboto', sans-serif;
+  font-size: 12pt;
+}
+h2{
+  font-family: 'Roboto bold', sans-serif
+}
+html{
+  scroll-behavior: smooth;
 }
